@@ -67,7 +67,7 @@ spec:
   source:
     contextDir: httpd-php
     git:
-      uri: https://github.com/fatherlinux/container-supply-chain.git
+      uri: https://github.com/eformat/container-supply-chain.git
     type: Git
   strategy:
     dockerStrategy:
@@ -112,7 +112,7 @@ spec:
   source:
     contextDir: wordpress
     git:
-      uri: https://github.com/fatherlinux/container-supply-chain.git
+      uri: https://github.com/eformat/container-supply-chain.git
     type: Git
   strategy:
     dockerStrategy:
